@@ -1,6 +1,6 @@
-//백준 2439번 별 찍기-2
-//input : a
-//output : (1부터 a까지의 합)개의 *
+// 백준 2439번 별 찍기-2
+// input : a
+// output : (1부터 a까지의 합)개의 *
 
 #include <iostream>
 using namespace std;
