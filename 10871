@@ -1,6 +1,6 @@
-//백준 10871번 X보다 작은 수
-//input : N, X, A
-//output : X보다 작은 A
+// 백준 10871번 X보다 작은 수
+// input : N, X, A
+// output : X보다 작은 A
 
 #include <iostream>
 using namespace std;
