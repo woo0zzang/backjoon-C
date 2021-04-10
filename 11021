@@ -1,6 +1,6 @@
-//백준 11021번 A+B-7
-//input : A, B
-//output : A+B
+// 백준 11021번 A+B-7
+// input : A, B
+// output : A+B
 
 #include <iostream>
 using namespace std;
